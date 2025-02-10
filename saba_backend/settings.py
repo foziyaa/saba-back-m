@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-39v@6se75^1d$30u_md6+)4#48j07&(1@u=*=upzh1hm@ym8&e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['saba-back-m-4.onrender.com', 'www.saba-back-m-4.onrender.com','127.0.0.1', 'localhost']  # Add your Render domain here
 
 
 # Application definition
