@@ -1,7 +1,68 @@
+asgiref==3.8.1
+attrs==24.2.0
+beautifulsoup4==4.12.3
+certifi==2024.8.30
+cffi==1.17.1
+charset-normalizer==3.4.0
+contourpy==1.3.1
+coverage==7.4.1
+cryptography==43.0.3
+cycler==0.12.1
 Django==5.1.1
-djangorestframework==3.14.0  # Or the latest version you are using
-corsheaders==3.13.0 # Or the latest version you are using
-gunicorn==20.1.0 # Or the latest version you are using
-psycopg2-binary==2.9.9 # Or the latest version you are using
-python-decouple==3.8 # Or the latest version you are using
-django-environ==0.11.2 # Or the latest version you are using
+django-auditlog==3.0.0
+django-cors-headers==4.3.1
+django-filter==23.5
+djangorestframework==3.15.2
+djangorestframework-gis==1.0
+djangorestframework-simplejwt==5.3.1
+docopt==0.6.2
+drf-access-policy==1.5.0
+drf-spectacular==0.27.1
+drf-spectacular-sidecar==2024.1.1
+drf-standardized-errors==0.13.0
+Faker==22.5.0
+flake8==7.0.0
+fonttools==4.55.3
+gunicorn==21.2.0
+idna==3.10
+inflection==0.5.1
+Js2Py==0.74
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+kiwisolver==1.4.8
+matplotlib==3.10.0
+mccabe==0.7.0
+numpy==2.2.1
+packaging==24.2
+pandas==2.2.3
+phonenumbers==8.13.28
+pika==1.3.2
+pillow==10.4.0
+pipwin==0.5.2
+psycopg==3.1.17
+psycopg-pool==3.2.1
+psycopg2-binary==2.9.10
+pycodestyle==2.11.1
+pycparser==2.22
+pyflakes==3.2.0
+pyjsparser==2.7.1
+PyJWT==2.9.0
+pyparsing==3.2.0
+PyPrind==2.11.3
+pySmartDL==1.3.4
+python-dateutil==2.9.0.post0
+python-decouple==3.8
+pytz==2024.2
+PyYAML==6.0.2
+referencing==0.35.1
+requests==2.31.0
+rest-framework-generic-relations==2.2.0
+rpds-py==0.21.0
+six==1.16.0
+soupsieve==2.6
+sqlparse==0.5.1
+typing_extensions==4.12.2
+tzdata==2024.2
+tzlocal==5.2
+uritemplate==4.1.1
+urllib3==2.2.3
