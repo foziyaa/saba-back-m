@@ -1,0 +1,7 @@
+Django==5.1.1
+djangorestframework==3.14.0  # Or the latest version you are using
+corsheaders==3.13.0 # Or the latest version you are using
+gunicorn==20.1.0 # Or the latest version you are using
+psycopg2-binary==2.9.9 # Or the latest version you are using
+python-decouple==3.8 # Or the latest version you are using
+django-environ==0.11.2 # Or the latest version you are using
